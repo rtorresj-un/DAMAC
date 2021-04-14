@@ -20,6 +20,6 @@ para poder usarlo en su versión 3 debe contar con el navegador google Chrome y 
 Por último, se hará publico un dashboard hecho en power bi en la página de la facultad de ciencias económicas de la sede bogotá, 
 
 Este proyecto esta en su fase inicial, somos conscientes de que hay mucho por corregir y mejorar, también debemos entender que nuestra principal área de conocimiento
-son las ciencias económicas y que la participación de un ingeniero o ingeniera de sistemas o de software daría un plus en la realización de este proyecto.
+son las ciencias económicas y que la participación de ingenieros o ingenieras de sistemas o de software que nos puedan guiar daría un plus en la realización de este proyecto.
 
 Tanto el código, como las bases de datos serán totalmente open source, para que cualquier persona pueda tener acceso si lo desea.
