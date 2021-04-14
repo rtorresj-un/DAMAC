@@ -4,6 +4,8 @@ Este paquete permitirá actualizar de manera automatizada diferentes indicadores
 en mercado laboral se tendrá una base de datos con más de 30 indicadores que darán cuenta de la situación del mercado laboral respecto a cada ciudad, región, rama de actividad,
 informalidad, entre otras, desagregado en lo posible por sexo, rango de edad, rama ciiu
 
+La organización en carpetas v1,v2,v3 ... premite una fácil identificación para aquellas personas que no estén familiarizadas con GitHub y se entendera que la última versión o la versión actualizada corresponde a la cerpeta con el número mas lejano del 0
+
 para tal fin, el código se construye usando los siguientes módulos:
 
 pandas
